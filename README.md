@@ -1,4 +1,4 @@
-# 01_06-caching-between-workflow-runs
+# Caching-between-workflow-runs
 Use these files to demonstrate caching between workflow runs.
 
 1. Create a new repo.
